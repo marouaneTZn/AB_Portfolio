@@ -69,7 +69,7 @@ main {
 
 .glass-nav {
     position: fixed;
-    top: 10px;
+    top: 20px;
     left: 10px;
     right: 10px;
     /* width: 90%; */
@@ -143,7 +143,7 @@ h2{
 .project-card {
     position: relative;
     overflow: hidden; /* This is crucial for the hover effects */
-    border-radius: 12px;
+    border-radius: 20px;
     border: 1px solid rgba(255, 255, 255, 0.1);
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
 
@@ -264,7 +264,7 @@ h1{
     animation: fadeIn 1s ease-in;
 }
 
-portfolio-grid{
+.portfolio{
     animation: fadeIn 4s ease-in;
 }
 
